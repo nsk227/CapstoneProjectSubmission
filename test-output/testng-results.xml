@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4352" started-at="2021-06-09T17:16:07 UTC" finished-at="2021-06-09T17:16:11 UTC">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4352" started-at="2021-06-09T17:16:07 UTC" finished-at="2021-06-09T17:16:11 UTC">
+      <class name="com.reqres.tests.postRequest">
+        <test-method status="PASS" signature="InitializeRequestURL()[pri:0, instance:com.reqres.tests.postRequest@4e718207]" name="InitializeRequestURL" is-config="true" duration-ms="580" started-at="2021-06-09T17:16:07 UTC" finished-at="2021-06-09T17:16:07 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitializeRequestURL -->
+        <test-method status="PASS" signature="CreateUser()[pri:0, instance:com.reqres.tests.postRequest@4e718207]" name="CreateUser" duration-ms="2273" started-at="2021-06-09T17:16:07 UTC" finished-at="2021-06-09T17:16:09 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUser -->
+        <test-method status="PASS" signature="InitializeRequestURL()[pri:0, instance:com.reqres.tests.postRequest@4e718207]" name="InitializeRequestURL" is-config="true" duration-ms="0" started-at="2021-06-09T17:16:09 UTC" finished-at="2021-06-09T17:16:09 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitializeRequestURL -->
+        <test-method status="PASS" signature="UpdateUser()[pri:1, instance:com.reqres.tests.postRequest@4e718207]" name="UpdateUser" duration-ms="420" started-at="2021-06-09T17:16:09 UTC" finished-at="2021-06-09T17:16:10 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateUser -->
+        <test-method status="PASS" signature="RegisterSuccess()[pri:2, instance:com.reqres.tests.postRequest@4e718207]" name="RegisterSuccess" duration-ms="279" started-at="2021-06-09T17:16:10 UTC" finished-at="2021-06-09T17:16:10 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterSuccess -->
+        <test-method status="PASS" signature="InitializeRequestURL()[pri:0, instance:com.reqres.tests.postRequest@4e718207]" name="InitializeRequestURL" is-config="true" duration-ms="0" started-at="2021-06-09T17:16:10 UTC" finished-at="2021-06-09T17:16:10 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitializeRequestURL -->
+        <test-method status="PASS" signature="InitializeRequestURL()[pri:0, instance:com.reqres.tests.postRequest@4e718207]" name="InitializeRequestURL" is-config="true" duration-ms="1" started-at="2021-06-09T17:16:10 UTC" finished-at="2021-06-09T17:16:10 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitializeRequestURL -->
+        <test-method status="PASS" signature="RegisterFailure()[pri:3, instance:com.reqres.tests.postRequest@4e718207]" name="RegisterFailure" duration-ms="265" started-at="2021-06-09T17:16:10 UTC" finished-at="2021-06-09T17:16:10 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterFailure -->
+        <test-method status="PASS" signature="InitializeRequestURL()[pri:0, instance:com.reqres.tests.postRequest@4e718207]" name="InitializeRequestURL" is-config="true" duration-ms="1" started-at="2021-06-09T17:16:10 UTC" finished-at="2021-06-09T17:16:10 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitializeRequestURL -->
+        <test-method status="PASS" signature="LoginSuccess()[pri:4, instance:com.reqres.tests.postRequest@4e718207]" name="LoginSuccess" duration-ms="230" started-at="2021-06-09T17:16:10 UTC" finished-at="2021-06-09T17:16:11 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginSuccess -->
+        <test-method status="PASS" signature="InitializeRequestURL()[pri:0, instance:com.reqres.tests.postRequest@4e718207]" name="InitializeRequestURL" is-config="true" duration-ms="0" started-at="2021-06-09T17:16:11 UTC" finished-at="2021-06-09T17:16:11 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitializeRequestURL -->
+        <test-method status="PASS" signature="LoginUnSuccess()[pri:5, instance:com.reqres.tests.postRequest@4e718207]" name="LoginUnSuccess" duration-ms="257" started-at="2021-06-09T17:16:11 UTC" finished-at="2021-06-09T17:16:11 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginUnSuccess -->
+      </class> <!-- com.reqres.tests.postRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
